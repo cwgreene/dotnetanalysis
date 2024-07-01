@@ -10,7 +10,7 @@ namespace FunctionCallExtractor
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Maing(string[] args)
         {
             if (args.Length != 2)
             {
